@@ -1,2 +1,2 @@
 # CV-creation.html
-A cv was created based on html5 and css3 only
+I have created a cv based on html and css only .

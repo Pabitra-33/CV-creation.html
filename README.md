@@ -2,19 +2,7 @@
 I have created a CV based on html and css only. 
 So creating a CV (Curriculum Vitae) in HTML and CSS involves structuring the document using HTML and then styling it using CSS. Here's a basic breakdown of the functionality and elements used:
 
-ChatGPT 3.5
-
-User
-CV creation in html and CSS, explain its functionality and elements used 
-
-2 / 2
-
-
-ChatGPT
-Creating a CV (Curriculum Vitae) in HTML and CSS involves structuring the document using HTML and then styling it using CSS. Here's a basic breakdown of the functionality and elements used:
-
 1. HTML Structure:
-
 <html>: Defines the root of the HTML document.
 <head>: Contains meta-information about the document, such as the title and links to CSS stylesheets.
 <body>: Contains the content of the document.

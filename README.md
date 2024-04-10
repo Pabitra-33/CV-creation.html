@@ -4,8 +4,8 @@ So creating a CV (Curriculum Vitae) in HTML and CSS involves structuring the doc
 
 i. HTML Structure:
    
- <html>: Defines the root of the HTML document.
-<head>: Contains meta-information about the document, such as the title and links to CSS stylesheets.
+ <html>:- Defines the root of the HTML document.
+<head>:- Contains meta-information about the document, such as the title and links to CSS stylesheets.
 <body>: Contains the content of the document.
 <header>: Typically includes your name, contact information, and possibly a brief introduction.
 <main>: Houses the main content of the CV, such as work experience, education, skills, etc.

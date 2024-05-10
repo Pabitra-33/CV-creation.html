@@ -2,7 +2,6 @@
 
 I have Developed a CV based on html and css only. 
 So creating a CV (Curriculum Vitae) in HTML and CSS involves structuring the document using HTML and then styling it using CSS. Here's a basic breakdown of the functionality and elements used:-
-
 i. HTML Structure:
  <html>:- Defines the root of the HTML document.
 <head>:- Contains meta-information about the document, such as the title and links to CSS stylesheets.
